@@ -1,0 +1,18 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+/*
+-> blue: #3A6FE6
+-> green: #4DA421
+-> blue from input text: #E8F0FE
+-> background: #F0F2F5
+*/
+
+.container {
+    width: 90%;
+    height: 100vh;
+    margin: auto;
+}

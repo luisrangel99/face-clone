@@ -1,0 +1,1 @@
+{"ok":false,"status":501,"data":{"message":"Error getting all users from data base","error":{"ok":0,"code":8000,"codeName":"AtlasError","name":"MongoError"}}}
