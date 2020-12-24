@@ -1,0 +1,55 @@
+ALLUSERSPROFILE -> C:\ProgramData
+APPDATA -> C:\Users\Quique\AppData\Roaming
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL -> true
+CHROME_CRASHPAD_PIPE_NAME -> \\.\pipe\crashpad_1912_PKSSPUYNLXAPPGOU
+COLORTERM -> truecolor
+CommonProgramFiles -> C:\Program Files\Common Files
+CommonProgramFiles(x86) -> C:\Program Files (x86)\Common Files
+CommonProgramW6432 -> C:\Program Files\Common Files
+COMPUTERNAME -> DESKTOP-BSR1C82
+ComSpec -> C:\Windows\system32\cmd.exe
+DriverData -> C:\Windows\System32\Drivers\DriverData
+ENV_FILE -> C:\Users\Quique\Desktop\face-clone\src\.env
+FPS_BROWSER_APP_PROFILE_STRING -> Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING -> Default
+HOMEDRIVE -> C:
+HOMEPATH -> \Users\Quique
+LANG -> es_MX.UTF-8
+LOCALAPPDATA -> C:\Users\Quique\AppData\Local
+LOGONSERVER -> \\DESKTOP-BSR1C82
+NUMBER_OF_PROCESSORS -> 4
+OneDrive -> C:\Users\Quique\OneDrive
+ORIGINAL_XDG_CURRENT_DESKTOP -> undefined
+OS -> Windows_NT
+Path -> C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Quique\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\Quique\AppData\Local\Programs\Python\Python38-32\;C:\Users\Quique\AppData\Local\Microsoft\WindowsApps;C:\Users\Quique\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Quique\AppData\Roaming\npm;C:\Program Files\MongoDB\Server\4.4\bin;;C:\Users\Quique\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Program Files\heroku\bin
+PATHEXT -> .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+PORT  -> 4000
+PROCESSOR_ARCHITECTURE -> AMD64
+PROCESSOR_IDENTIFIER -> Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+PROCESSOR_LEVEL -> 6
+PROCESSOR_REVISION -> 4e03
+ProgramData -> C:\ProgramData
+ProgramFiles -> C:\Program Files
+ProgramFiles(x86) -> C:\Program Files (x86)
+ProgramW6432 -> C:\Program Files
+PROMPT -> $P$G
+PSModulePath -> C:\Users\Quique\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC -> C:\Users\Public
+SESSIONNAME -> Console
+SystemDrive -> C:
+SystemRoot -> C:\Windows
+TEMP -> C:\Users\Quique\AppData\Local\Temp
+TERM -> xterm-256color
+TERM_PROGRAM -> vscode
+TERM_PROGRAM_VERSION -> 1.52.1
+TMP -> C:\Users\Quique\AppData\Local\Temp
+URL  -> mongodb+srv://quique:h36!36dms@cluster0.yl9oy.mongodb.net/facebook?retryWrites=true&w=majority
+USERDOMAIN -> DESKTOP-BSR1C82
+USERDOMAIN_ROAMINGPROFILE -> DESKTOP-BSR1C82
+USERNAME -> Quique
+USERPROFILE -> C:\Users\Quique
+windir -> C:\Windows
+VSCODE_GIT_IPC_HANDLE -> \\.\pipe\vscode-git-d72cbc9036-sock
+GIT_ASKPASS -> c:\Users\Quique\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass.sh
+VSCODE_GIT_ASKPASS_NODE -> C:\Users\Quique\AppData\Local\Programs\Microsoft VS Code\Code.exe
+VSCODE_GIT_ASKPASS_MAIN -> c:\Users\Quique\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass-main.js
